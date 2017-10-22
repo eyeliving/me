@@ -1,5 +1,16 @@
 # 一切从零开始
 
+* 应用开发者
+
+* 插件开发者
+
+* 框架开发者
+
+
+
+
+
+<div style="display:none">
 ## CSS
 
 一、布局
@@ -75,3 +86,4 @@ vue2.3、nuxt.js、node.js、express
 
 
 https://github.com/ccforward/cc/issues/34
+</div>
