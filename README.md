@@ -64,9 +64,13 @@
 ## 个人项目
 
 * 拾光笔记（官网：(http://ing.eoeos.com)[http://ing.eoeos.com]）
+
 angularjs1.5.8、node.js、express
 
+
+
 * 吟糗（官网：(http://inqiu.com)[http://inqiu.com]）
+
 vue2.3、nuxt.js、node.js、express
 
 
